@@ -73,3 +73,7 @@ java.lang.IllegalAccessError: superclass access check failed: class org.jetbrain
 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
 	at java.base/java.lang.Thread.run(Thread.java:1583)
 ```
+
+## Solution
+
+Reboot your Mac...
